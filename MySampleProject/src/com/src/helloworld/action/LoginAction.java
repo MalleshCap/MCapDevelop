@@ -24,7 +24,7 @@ public class LoginAction extends Action  {
 		 String target1 = null;
 	        String target = null;
 	        LoginForm loginForm = (LoginForm)form; 
-	        System.out.Println("Hi");     
+	        System.out.Println("This is UserName & password Validation"); 
 	        if(loginForm.getUserName().equals("mallesh") && loginForm.getPassword().equals("mallesh")) {
 	            target = "success";
 	            request.setAttribute("message", loginForm.getUserName());
