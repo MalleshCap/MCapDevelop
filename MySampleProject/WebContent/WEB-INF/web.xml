@@ -10,6 +10,8 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
 <!-- Mallesh Testing >
+
+<!-- Mallesh Testing 3>
   <servlet>
         <servlet-name>action</servlet-name>
         <servlet-class>
