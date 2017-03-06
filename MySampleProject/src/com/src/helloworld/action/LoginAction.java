@@ -17,7 +17,7 @@ import com.mallesh.helloworld.form.LoginForm;
  *
  */
 public class LoginAction extends Action  {
- // This is for testing commit2
+ // Git GUI commit
 	 public ActionForward execute(ActionMapping mapping, ActionForm form,HttpServletRequest request, HttpServletResponse response)throws Exception {
 	     
 		 //This is code

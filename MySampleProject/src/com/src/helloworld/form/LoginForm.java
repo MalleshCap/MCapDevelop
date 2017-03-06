@@ -20,7 +20,7 @@ public class LoginForm extends ActionForm {
      
     public ActionErrors validate(ActionMapping mapping,
             HttpServletRequest request) {
-     // This is for testing commit1
+    // Git GUI commit  by Mallesh
         ActionErrors actionErrors = new ActionErrors();
          
         if(userName == null || userName.trim().equals("")) {
